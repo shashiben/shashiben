@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Shashi Kumar! 👋
 
-<!--
-**shashiben/shashiben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Internship project.
+- 🌱 I’m currently learning Flutter,CNN.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with UI/UX design.
+- 💬 Ask me about Flutter.
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/shashi-kumar-58ab1b1a4/) ,[Twitter](https://twitter.com/Shashi35744438)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love reading manga.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=shashiben&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
