@@ -33,12 +33,7 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shashiben&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
+
 <!--START_SECTION:waka-->
-```text
-Dart         18 hrs 1 min    ████████████░░░░░░░░░░░░░   48.63 % 
-JSX          10 hrs 8 mins   ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-JavaScript   4 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-YAML         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-```
+
 <!--END_SECTION:waka-->
