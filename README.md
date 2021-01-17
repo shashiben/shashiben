@@ -33,6 +33,8 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shashiben&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shashiben/f74cc781-01aa-4a81-9f28-75e2cabcc077.png" /></a>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
