@@ -33,8 +33,10 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shashiben&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shashiben/f74cc781-01aa-4a81-9f28-75e2cabcc077.png" /></a>
 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shashiben/061ce0c0-16c0-4a56-9c56-9849f48338df.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shashiben/2f9f0aad-50b3-45b9-9f14-477258f7ae8e.png" /></a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
