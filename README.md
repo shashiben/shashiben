@@ -4,7 +4,9 @@
 [![](https://img.shields.io/badge/-@shashiben-%23181717?style=flat-square&logo=github)](https://github.com/shashiben)
 [![](https://img.shields.io/badge/-@shashiben-%23000000?style=flat-square&logo=codepen)](https://codepen.io/shashiben)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=shashiben.me&url=https%3A%2F%2Fshashiben.me)](https://shashiben.me)
-
+<br>
+<br>
+<a href="https://www.buymeacoffee.com/shashiben"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Shashi" /></a>
 
 :computer: Full Stack Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [Webknot Pvt Ltd](https://gowebknot.com).
 
@@ -39,7 +41,12 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shashiben&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
-
+<p align="left">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shashiben&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  
+</p>
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@shashiben/061ce0c0-16c0-4a56-9c56-9849f48338df.png" /></a>
