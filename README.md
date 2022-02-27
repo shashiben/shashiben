@@ -1,56 +1,88 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Shashiben
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashiben&label=Profile%20views&color=0e75b6&style=flat" alt="shashiben" /> </p>
 
-[![](https://img.shields.io/badge/-@shashiben-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Shashi35744438)
-[![](https://img.shields.io/badge/-@shashiben-%23181717?style=flat-square&logo=github)](https://github.com/shashiben)
-[![](https://img.shields.io/badge/-@shashiben-%23000000?style=flat-square&logo=codepen)](https://codepen.io/shashiben)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=shashiben.me&url=https%3A%2F%2Fshashiben.me)](https://shashiben.me)
+#### Contact
+
+<a href="mailto:kumarshashi5294@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/+917997217156"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://twitter.com/Shashi35744438"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <br>
 <br>
 <a href="https://www.buymeacoffee.com/shashiben"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Shashi" /></a>
-
-:computer: Full Stack Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [Webknot Pvt Ltd](https://gowebknot.com).
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashiben&label=Profile%20views&color=0e75b6&style=flat" alt="shashiben" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashiben" alt="shashiben" /></a> </p>
-
-- 🔭 I’m currently working on **React JS**
-
-- 🌱 I’m currently learning **MERN Stack & Angular**
+## My Introduction
 
 - 👯 I’m looking to collaborate on **Open source contributions**
 
-- 🤝 I’m looking for help with **UI/UX**
-
 - 💬 Ask me about **react,flutter etc.**
 
-- 📫 How to reach me  [Linkedln](https://www.linkedin.com/in/shashi-kumar-58ab1b1a4/) ,[Twitter](https://twitter.com/Shashi35744438)
+- 🔭 I’m currently working on [**Flutter Next**](https://pub.dev/packages/flutter_next)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shashi35744438" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shashi35744438" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashi-kumar-58ab1b1a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shashi-kumar-58ab1b1a4" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shashi-msp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shashi-msp" height="30" width="40" /></a>
-<a href="https://medium.com/@ben75930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ben75930" height="30" width="40" /></a>
-</p>
+ 
+[![Flutter Next Card](https://github-readme-stats.vercel.app/api/pin/?username=shashiben&repo=flutter_next&theme=radical&hide_border=true)](https://github.com/shashiben/github-readme-stats)
+ 
+## Current Employement
+:computer: Full Stack Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒂𝒕 [Webknot Pvt Ltd](https://gowebknot.com).
+- Native Android | Flutter Developer
+- MERN Stack Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashiben&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="shashiben" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shashiben&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</p>
-<p align="left">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shashiben&theme=darcula&hide_border=true&background=FFFFFF00">
+| <a href="https://github.com/shashiben/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiben&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Shashiben's github stats" /></a> | <a href="https://github.com/shashiben/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiben&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shashiben&theme=radical&hide_border=true">
   <br>
   <br>
-  
+ 
 </p>
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shashiben/061ce0c0-16c0-4a56-9c56-9849f48338df.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shashiben/2f9f0aad-50b3-45b9-9f14-477258f7ae8e.png" /></a>
+## Tools and Technologies:
+
+#### For Blogs:
+
+<a href="https://medium.com/@ben75930"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></p>
+
+#### Showcase:
+[![](https://img.shields.io/badge/-@shashiben-%23181717?style=flat-square&logo=github)](https://github.com/shashiben)
+[![](https://img.shields.io/badge/-@shashiben-%23000000?style=flat-square&logo=codepen)](https://codepen.io/shashiben)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=shashiben.me&url=https%3A%2F%2Fshashiben.me)](https://shashiben.me)
+
+#### Languages I Know:
+<p>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+#### Tools for deployement:
+<p>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+#### Tools for developement:
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+### Frameworks and others:
+<p>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
