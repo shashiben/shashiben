@@ -90,7 +90,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other             58 hrs 10 mins  ████████████████████░░░░░   80.52 %
+Dart              12 hrs 14 mins  █████████████████████▒░░░   85.95 %
+YAML              1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Protocol Buffer   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Groovy            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JavaScript        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
