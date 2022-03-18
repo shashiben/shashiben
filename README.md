@@ -1,7 +1,7 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Shashiben  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Shashiben  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashiben&label=Profile%20views&color=0e75b6&style=flat" alt="shashiben" /> </p>
 
-## Contact <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="38px">
+## Contact <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="38">
 
 <a href="mailto:kumarshashi5294@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/+917997217156"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -25,7 +25,7 @@
 - Native Android | Flutter Developer
 - MERN Stack Developer
 
-## Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='24px'>
+## Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='24'>
 
 | <a href="https://github.com/shashiben/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiben&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Shashiben's github stats" /></a> | <a href="https://github.com/shashiben/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiben&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
