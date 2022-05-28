@@ -90,8 +90,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart         13 hrs 27 mins  ██████████████████▒░░░░░░   72.89 %
-Other        3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+Dart         19 hrs 4 mins   ███████████████████▒░░░░░   77.54 %
+Other        3 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
 ```
 
 <!--END_SECTION:waka-->
