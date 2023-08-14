@@ -1,7 +1,7 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Shashiben  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Shashiben  <img src = "https://raw.githubusercontent.com/shashiben/shashiben/master/assets/wave.gif" width = 50>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashiben&label=Profile%20views&color=0e75b6&style=flat" alt="shashiben" /> </p>
 
-## Contact <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="38">
+## Contact <img src='https://raw.githubusercontent.com/shashiben/shashiben/master/assets/handshake.gif' width="38">
 
 <a href="mailto:kumarshashi5294@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/+917997217156"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
