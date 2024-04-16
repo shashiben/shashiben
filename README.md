@@ -29,6 +29,8 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart Server with good practices](https://shashiben.medium.com/dart-server-with-good-practices-f18ed33868e5?source=rss-4592bea53881------2)
+- [Flutter cache with hive](https://medium.com/flutter-community/flutter-cache-with-hive-410c3283280c?source=rss-4592bea53881------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats 
