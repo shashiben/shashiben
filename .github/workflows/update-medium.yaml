@@ -1,0 +1,25 @@
+name: Update Medium Blogs
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Pull latest blog posts from Medium
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: "https://medium.com/feed/@shashiben"
+
+    - name: Commit and push if changed
+      run: |
+        git diff
+        git config --global user.email "shashiben@github.com"
+        git config --global user.name "GitHub Action"
+        git commit -am ":pencil: Updated README with latest Medium posts" -a || echo "No changes to commit"        
+        git push
