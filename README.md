@@ -14,7 +14,7 @@
 🤝 I'm always open to collaborating on projects and innovative/disruptive ideas. 
 🌐 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-shashiben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashiben/)](https://www.linkedin.com/in/shashiben/)
+[![Linkedin Badge](https://img.shields.io/badge/-shashiben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashi-kumar-banda-58ab1b1a4/)]([https://www.linkedin.com/in/shashiben/](https://www.linkedin.com/in/shashi-kumar-banda-58ab1b1a4/))
 
 ## 🏆 My Skills 
 
