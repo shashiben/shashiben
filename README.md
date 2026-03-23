@@ -1,19 +1,18 @@
+
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,100:000000&height=200&section=header&text=Shashiben&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║          NEGATIVE STACK DEVELOPER — RUNTIME ACTIVE          ║
-║         [ PUSH PROBLEMS. POP SOLUTIONS. REPEAT. ]           ║
+║          NEGATIVE STACK DEVELOPER — RUNTIME ACTIVE           ║
+║         [ PUSH PROBLEMS. POP SOLUTIONS. REPEAT. ]            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-# 💀 SHASHIBEN.exe
-
 ### `NEGATIVE STACK DEVELOPER`
 > *I don't solve problems. I push them onto a stack, apply the right tech, and watch them pop into oblivion.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shashiben&label=Devs+Scoped+My+Stack&color=ff0055&style=for-the-badge)](https://github.com/shashiben)
-[![GitHub followers](https://img.shields.io/github/followers/shashiben?label=Witnesses+of+the+Stack&style=for-the-badge&color=ff0055)](https://github.com/shashiben)
+[![GitHub followers](https://img.shields.io/github/followers/shashiben?label=Witnesses&style=for-the-badge&color=ff0055)](https://github.com/shashiben)
 
 </div>
 
@@ -98,12 +97,10 @@
 
 <div align="center">
 
-| SIGNAL | ENDPOINT | ACTION |
-|--------|----------|--------|
-| 📧 **Gmail** | kumarshashi5294@gmail.com | [**DROP A MESSAGE**](mailto:kumarshashi5294@gmail.com) |
-| 📱 **WhatsApp** | +91 79972 17156 | [**PING ME**](https://wa.me/+917997217156) |
-| 🐦 **Twitter / X** | @Shashi35744438 | [**SEE MY FEED**](https://twitter.com/Shashi35744438) |
-| 💼 **LinkedIn** | shashiben | [**CONNECT**](https://www.linkedin.com/in/shashi-kumar-banda-58ab1b1a4/) |
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge\&logo=gmail\&logoColor=ff0055)](mailto:kumarshashi5294@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge\&logo=whatsapp\&logoColor=ff0055)](https://wa.me/+917997217156)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=ff0055)](https://www.linkedin.com/in/shashi-kumar-banda-58ab1b1a4/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge\&logo=twitter\&logoColor=ff0055)](https://twitter.com/Shashi35744438)
 
 </div>
 
@@ -137,3 +134,4 @@
 *"Every bug is just a feature waiting to be popped off the stack."*
 
 </div>
+
