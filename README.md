@@ -1,137 +1,195 @@
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,100:000000&height=200&section=header&text=Shashiben&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║          NEGATIVE STACK DEVELOPER — RUNTIME ACTIVE           ║
-║         [ PUSH PROBLEMS. POP SOLUTIONS. REPEAT. ]            ║
-╚══════════════════════════════════════════════════════════════╝
-```
-### `NEGATIVE STACK DEVELOPER`
-> *I don't solve problems. I push them onto a stack, apply the right tech, and watch them pop into oblivion.*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shashiben&label=Devs+Scoped+My+Stack&color=ff0055&style=for-the-badge)](https://github.com/shashiben)
-[![GitHub followers](https://img.shields.io/github/followers/shashiben?label=Witnesses&style=for-the-badge&color=ff0055)](https://github.com/shashiben)
-
-</div>
-
----
-
-## 🎮 PLAYER STATS
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PLAYER: SHASHIBEN                         CLASS: FULL-STACK │
-│  TITLE:  NEGATIVE STACK DEVELOPER          LEVEL: ██████░░  │
-│                                                              │
-│  HP:  ████████████████████  99/100   (fueled by coffee ☕)  │
-│  XP:  ████████████████████  ∞        (still grinding)       │
-│  MP:  ████████░░░░░░░░░░░░  40/100   (monday morning)       │
-│                                                              │
-│  PASSIVE ABILITY: [ PUSH_BUG() → DEBUG() → POP_SOLUTION() ] │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ⚙️ HOW THE NEGATIVE STACK WORKS
-
-```
-  PROBLEM ARRIVES ──► PUSH(problem)           Stack: [🐛]
-  ANALYZE & DEBUG  ──► PUSH(solution_logic)   Stack: [🐛][🔍]
-  APPLY TECH SKILL ──► PUSH(code_wizardry)    Stack: [🐛][🔍][⚡]
-  SHIP & EXECUTE   ──► POP() POP() POP()      Stack: []  ✅ CLEARED
-```
-
-> `SHASHIBEN.exe has entered the chat. Problems have left the chat.`
-
----
-
-## 🧙 SKILL TREE — UNLOCKED
-
-### 🚀 Languages
-`JAVA` `PYTHON` `DART` `KOTLIN` `JAVASCRIPT` `HTML` `CSS` `SQL`
-
-### 🛠️ Frameworks & Stacks
-`MERN` `FLUTTER` `SPRING BOOT` `DJANGO` `FLASK`
-
-### 🗄️ Databases
-`MySQL` `MongoDB` `PostgreSQL` `SQLite`
-
-### 🔧 Tools
-`Git` `Docker` `Jenkins` `Jira` `Postman` `Swagger` `Blackduck`
-
-### ☁️ Cloud
-`AWS` — *because even problems need to scale*
-
----
-
-## 📝 PUBLISHED DISPATCHES
-
-> *Writings dropped from the stack — read before they overflow.*
-
-| # | ARTICLE | TAGS | LINK |
-|---|---------|------|------|
-| `01` | **Dart Server with Good Practices** | `Dart` `Backend` `Architecture` | [**→ READ**](https://shashiben.medium.com/dart-server-with-good-practices-f18ed33868e5) |
-| `02` | **Flutter Cache with Hive** | `Flutter` `Hive` `Performance` | [**→ READ**](https://medium.com/flutter-community/flutter-cache-with-hive-410c3283280c) |
-| `??` | *Next dispatch incoming...* | `UNKNOWN` | `NOT READY` |
-
----
-
-## 📊 BATTLE RECORDS
-
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shashiben&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:151515,100:ff0055&height=220&section=header&text=SHASHI%20KUMAR&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20ENGINEERING&descAlignY=58&descSize=14"/>
 
-[![Shashiben's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashiben&show_icons=true&theme=radical&hide_border=true)](https://github.com/shashiben)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashiben&theme=redical&hide_border=true)
-
-</div>
-
----
-
-## 📡 OPEN CHANNELS
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge\&logo=gmail\&logoColor=ff0055)](mailto:kumarshashi5294@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge\&logo=whatsapp\&logoColor=ff0055)](https://wa.me/+917997217156)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=ff0055)](https://www.linkedin.com/in/shashi-kumar-banda-58ab1b1a4/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge\&logo=twitter\&logoColor=ff0055)](https://twitter.com/Shashi35744438)
-
-</div>
-
----
-
-## ☕ REFUEL THE DEVELOPER
-
-> *The stack runs on caffeine. Keep it running.*
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/shashiben">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Me A Coffee" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=FF0055&center=true&vCenter=true&width=650&lines=I+build+products+from+interface+to+infrastructure.;Turning+complex+problems+into+shipped+software.;Push+problem.+Pop+solution." />
 </a>
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ff0055?style=for-the-badge\&logo=safari\&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-banda-58ab1b1a4/)
+[![Medium](https://img.shields.io/badge/MEDIUM-111111?style=for-the-badge\&logo=medium\&logoColor=white)](https://shashiben.medium.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=shashiben\&label=PROFILE+VIEWS\&color=111111\&style=for-the-badge)](https://github.com/shashiben)
+
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0055&height=2&section=header" width="100%"/>
+
+## `> whoami`
+
+```typescript
+const shashi = {
+    role: "Full Stack Engineer",
+    focus: ["Product Engineering", "Web", "Mobile", "Backend"],
+    currentlyBuilding: "Things people actually use",
+    philosophy: "Complexity in. Simplicity out.",
+    status: "shipping",
+};
+```
+
+I enjoy owning the **entire engineering surface** — architecture, APIs,
+databases, interfaces, infrastructure and that suspicious bug that
+*only happens in production.*
+
+### The Negative Stack
+
+> **Every problem added to my stack should eventually become `undefined`.**
+
+```text
+PROBLEM ────────► UNDERSTAND ────────► BUILD ────────► SHIP
+   +1                                                   -1
+                            STACK ↓
+```
+
+<br/>
+
+## `> tech --stack`
 
 <div align="center">
 
-```
-> shashiben --status
-✔ ONLINE
-✔ STACK: OPERATIONAL
-✔ PROBLEMS: QUEUED
-✔ SOLUTIONS: SHIPPING
-> _
-```
+### CORE
 
-*"Every bug is just a feature waiting to be popped off the stack."*
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,dart,kotlin&theme=dark" />
+
+### BUILD
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,spring,nodejs,django,flask,flutter&theme=dark" />
+
+### DATA & INFRA
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,jenkins,git&theme=dark" />
 
 </div>
 
+<br/>
+
+## `> operating-system`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ BUILD
+
+```text
+Web Applications
+Mobile Applications
+Backend Systems
+REST APIs
+Product Architecture
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ CURRENTLY EXPLORING
+
+```text
+AI-assisted engineering
+Developer tooling
+System architecture
+Product experiences
+Automation
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> transmissions`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Dart Server
+
+**with Good Practices**
+
+Backend structure, architecture and maintainability with Dart.
+
+`DART` `BACKEND` `ARCHITECTURE`
+
+[**READ DISPATCH →**](https://shashiben.medium.com/dart-server-with-good-practices-f18ed33868e5)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Flutter Cache
+
+**with Hive**
+
+Practical local caching patterns for fast Flutter applications.
+
+`FLUTTER` `HIVE` `PERFORMANCE`
+
+[**READ DISPATCH →**](https://medium.com/flutter-community/flutter-cache-with-hive-410c3283280c)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> telemetry`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashiben&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=FF0055&text_color=8B949E&ring_color=FF0055" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shashiben&hide_border=true&background=0D1117&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=484F58" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashiben&bg_color=0D1117&color=8B949E&line=FF0055&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+## `> beyond-code`
+
+<div align="center">
+
+`✈ TRAVEL`    `☕ COFFEE`    `🎬 ANIME`    `⚡ BUILDING THINGS`
+
+</div>
+
+<br/>
+
+## `> connect`
+
+<div align="center">
+
+### Have a difficult problem?
+
+**Even better.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/EMAIL-ff0055?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kumarshashi5294@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-banda-58ab1b1a4/)
+[![Medium](https://img.shields.io/badge/MEDIUM-111111?style=for-the-badge\&logo=medium\&logoColor=white)](https://shashiben.medium.com/)
+
+<br/><br/>
+
+```text
+shashi@github ~ $ status
+
+● ONLINE
+● BUILDING
+● SHIPPING
+```
+
+<sub>push(problem) → build(solution) → pop()</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,55:151515,100:080808&height=120&section=footer"/>
+
+</div>
